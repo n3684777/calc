@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "nodemon": "^3.1.4",
     "scanf": "^1.2.0"
   }
 }
